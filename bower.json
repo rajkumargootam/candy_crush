@@ -1,0 +1,21 @@
+{
+  "name": "candy_crush",
+  "description": "candy crush web application",
+  "main": "index.js",
+  "authors": [
+    "rajkumar"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/rajkumargootam/candy_crush",
+  "moduleType": [
+    "es6",
+    "node"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
