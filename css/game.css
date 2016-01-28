@@ -1,6 +1,11 @@
 * {
   box-sizing: border-box; }
 
+#game {
+  margin: 0 auto;
+  width: 100vmin;
+  text-align: center; }
+
 #board {
   margin: 0 auto;
   width: 100vmin;
@@ -26,5 +31,5 @@
           color: #2c3e50; }
         #board .row .cell i.fa-rocket {
           color: #d35400; }
-        #board .row .cell i.fa-car {
+        #board .row .cell i.fa-hashtag {
           color: #f1c40f; }
